@@ -1,0 +1,20 @@
+.cardst {
+  position: relative;
+}
+
+.innerControls {
+  display: inline-block;
+  position: absolute;
+  top: 280px;
+  right: 15px;
+}
+
+.innerControls .cntrlbtn {
+  margin: 0 10px;
+}
+
+.innerControls .cntrlbutton {
+  background-color: green;
+  z-index: 1000;
+  position: absolute;
+}
